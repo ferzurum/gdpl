@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6cd1852-c25f-4903-9695-77ee4931165a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/api/vendor/peppeocchi/php-cron-scheduler" />
+      <path value="$PROJECT_DIR$/api/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/api/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/api/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/api/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/api/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/api/vendor/ethanhann/redis-raw" />
+      <path value="$PROJECT_DIR$/api/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/api/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/api/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/api/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/api/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/api/vendor/ethanhann/redisearch-php" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/api/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/api/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/api/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/api/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/api/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/api/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/api/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/api/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/api/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/api/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/api/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/api/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/api/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/log" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2SOeiJpU273f22qLRVmYWAYkI10" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/fatiherzurum/web/pievision/api/src/Api/Appointment",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/src/Api/Appointment" />
+      <recent name="$PROJECT_DIR$/api/src/Api/Common" />
+      <recent name="$PROJECT_DIR$/api/src/Api/Service" />
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/api/src/Api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/src/Api" />
+      <recent name="$PROJECT_DIR$/api/src/Api/Service" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6cd1852-c25f-4903-9695-77ee4931165a" name="Changes" comment="" />
+      <created>1689022180564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689022180564</updated>
+      <workItem from="1689022182323" duration="15827000" />
+      <workItem from="1689186209344" duration="60902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/../gdpl/api/src/Api/Appointment/AppointmentService.php</url>
+          <line>122</line>
+          <properties>
+            <option name="className" value="\Api\Appointment\AppointmentService" />
+            <option name="methodName" value="serviceStatus" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
